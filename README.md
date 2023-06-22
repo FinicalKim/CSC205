@@ -1,2 +1,2 @@
 # CSC205
-A set of minilabs from CSC205AB
+A set of minilabs from CSC205AB.
